@@ -18056,3 +18056,12 @@ Entries:
   id: 1990
   time: '2026-03-08T23:08:48.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3408
+- author: UnicornOnLSD
+  changes:
+    - type: Tweak
+      message: >-
+        RSC Scallywag has had it's armament switched to mostly ballistic and EMP
+        weaponry downscaled
+  id: 1991
+  time: '2026-03-08T23:56:45.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3403
